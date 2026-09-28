@@ -1,0 +1,6 @@
+{
+  "name": "표 읽기 연구소",
+  "description": "숫자만 보면 멈추는 사람들을 위한 통합사회2 사회 자료 해석 훈련 웹 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
